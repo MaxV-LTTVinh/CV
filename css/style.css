@@ -700,8 +700,9 @@ p{
 }
 
 #contact .contact-cont2 address,
+#contact .contact-cont2 a,
 #contact .contact-cont2 address a{
-  color:#666;
+  color:#868e96;
 }
  
 .con-form input {
