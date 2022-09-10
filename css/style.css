@@ -440,6 +440,7 @@ p{
     padding: 20px 0;
     margin-bottom: 30px;
     background: rgba(144, 144, 144, 0.78);
+    border-radius: 2rem;
 }
 
 .skill-item i {
@@ -563,6 +564,7 @@ p{
     border: 1px solid transparent;
     position: relative;
     transition: all 0.3s ease 0s;
+    border-radius: 1rem;
 }
 
 #award-box .award:hover .award-content {
@@ -794,4 +796,7 @@ p{
     height:100%;
     width:100%;
     position:absolute;
+}
+.resume-item .card{
+    border-radius: 1.5rem;
 }
